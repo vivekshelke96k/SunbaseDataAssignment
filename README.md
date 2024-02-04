@@ -32,5 +32,8 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/customer-management-system.git
-   cd customer-management-system
+   git https://github.com/vivekshelke96k/SunbaseDataAssignment
+
+   Access the Application:
+
+Open your web browser and go to http://localhost:8080/customers. You should see the Customer Application homepage.
